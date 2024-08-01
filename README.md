@@ -6,7 +6,7 @@ Content:
 ```yml
 Lmcraft-reader-version: LATEST
 ACTIVE: True
-TYPE: Data/Others/Pice
+TYPE: Data/Others/Price
 Main: src.Main
 
 CODE:
