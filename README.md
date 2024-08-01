@@ -15,7 +15,7 @@ CODE:
     DATAS:
       Material: Youre_Material
       Displayname: < Optinal >
-      AdminShop Price: 
+      AdminShop-Price: 
          buy: < Optinal >
          sale: < Optinal >
        Price: Youre_Pice [ 10, 50, 35....: NOT FOR EXAMPLE 35.32 ]
