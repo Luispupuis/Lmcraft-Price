@@ -20,3 +20,4 @@ CODE:
          sale: < Optinal >
        Price: Youre_Pice [ 10, 50, 35....: NOT FOR EXAMPLE 35.32 ]
 ```       
+Information: This is a self-"programmed" language, the structure is similar to yml: The language is executed in Java and will soon be made available as an open source.
