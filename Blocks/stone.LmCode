@@ -8,8 +8,4 @@ CODE:
     Main: @READERPLUGIN IF LMPRICE IS NOT INSTALLED THEN INSTALL LMPRICE THEN RUN LMPRICE -M DATAS
     DATAS:
       Material: Youre_Material
-      Displayname: < Optinal >
-      AdminShop Price: 
-         buy: < Optinal >
-         sale: < Optinal >
-       Price: Youre_Pice [ 10, 50, 35....: NOT FOR EXAMPLE 35.32 ]
+      Price: 10
