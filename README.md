@@ -11,7 +11,7 @@ Main: src.Main
 
 CODE:
   src:
-    Main: @READERPLUGIN IF LMPRICE IS NOT INSTALLED THEN INSTALL LMPRICE THEN RUN LMPRICE -M DATAS
+    Main: -M DATAS
     DATAS:
       Material: Youre_Material
       Displayname: < Optinal >
